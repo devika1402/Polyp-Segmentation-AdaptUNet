@@ -11,4 +11,4 @@ https://www.kaggle.com/datasets/kelkalot/the-hyper-kvasir-dataset
 Testing Datasets (under test directory):
 https://www.kaggle.com/datasets/devikarajasekar/polyps-dataset 
 
-Weights used after training the model on HyperKvasir model:
+Weights used after training the model with HyperKvasir dataset:
