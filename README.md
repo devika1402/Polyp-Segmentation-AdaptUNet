@@ -1,7 +1,7 @@
 # Polyp-Segmentation-AdaptUNet
 
 Paper:
-https://vitacin-my.sharepoint.com/:w:/g/personal/devika_rajasekar2020_vitstudent_ac_in/EVfevB0lonBDoIJQuYcu194Be75i5XmEKziyUY5ZcfBjkw?e=xyH6sl&nav=eyJjIjo2NTU0OTE2Nn0 
+https://vitacin-my.sharepoint.com/:w:/g/personal/devika_rajasekar2020_vitstudent_ac_in/EULsTLv06HhAvLhWl63g-JQBF2Uafh-65VcbuJt1jKLGAA?e=69gjbm
 
 Datasets:
 
